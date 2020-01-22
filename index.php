@@ -422,17 +422,49 @@ body {
 
 
   
+         <!-- Footer -->
+<footer class="page-footer font-small elegant color">
+
+  <!-- Footer Text -->
+  <div class="container-fluid text-center text-md-left">
+
+    <!-- Grid row -->
+    <div class="row">
+      <div class="col-md-4 mt-md-0 mt-3">
+        <img src="assets/img/aqueef.png" class="img-fluid d-block mx-auto" width="30%" height="30%">
+      </div>
+
+      <hr class="clearfix w-100 d-md-none pb-3">
+      <!-- Grid column -->
+      <div class="col-md-4 mt-md-0 mt-3">
+
+        <!-- Content -->
+        <h5 class="text-uppercase font-weight-bold">AQUEEF ALIM ANSARI</h5>
+        <p>B.TECH - 2nd YEAR</p>
+        <p>Email: aqueefalimansari007@gmail.com</p>
+        <p>Contact: 9875672907</p>
+
+      </div>
+      <!-- Grid column -->
+
+
+      <!-- Grid column -->
+      
+
+    </div>
+    <!-- Grid row -->
+
+  </div>
+  <!-- Footer Text -->
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">POWERED BY AQUEEF ALIM ANSARI © 2020 Copyright:
+    <a href="#"> AGMANIA</a>
+  </div>
+  <!-- Copyright -->
+
+</footer>
 <!-- Footer -->
-				<footer class="page-footer font-small">
-
-				  <!-- Copyright -->
-				  <div class="footer-copyright text-center py-3">Powered by Aqueef Alim Ansari © 2020 Copyright:
-				    <a href="#"><span style="color:#38ef7d; ">AGMANIA</span></a>
-				  </div>
-				  <!-- Copyright -->
-
-				</footer>
-				<!-- Footer -->
 
 
 
