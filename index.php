@@ -440,7 +440,7 @@ body {
       <div class="col-md-4 mt-md-0 mt-3">
 
         <!-- Content -->
-        <h5 class="text-uppercase font-weight-bold">AQUEEF ALIM ANSARI</h5>
+        <h5 class="text-uppercase font-weight-bold" style="margin-top:10px;">AQUEEF ALIM ANSARI</h5>
         <p><strong>WEB DEVELOPER</strong></p>
         <p>B.TECH - 2nd YEAR<br/>Email: aqueefalimansari007@gmail.com<br/>
         Contact: 9875672907</p>
