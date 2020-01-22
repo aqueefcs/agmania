@@ -447,11 +447,11 @@ body {
 
 
 
-            <!--script type="text/javascript">        
+            <script type="text/javascript">        
                 if (window.location.protocol != "https:") {
                    window.location.protocol = "https";
                 }
-          </script-->
+          </script>
 
 
 		 
