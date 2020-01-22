@@ -440,9 +440,9 @@ body {
 
         <!-- Content -->
         <h5 class="text-uppercase font-weight-bold">AQUEEF ALIM ANSARI</h5>
-        <p>B.TECH - 2nd YEAR</p>
-        <p>Email: aqueefalimansari007@gmail.com</p>
-        <p>Contact: 9875672907</p>
+        <p><strong>WEB DEVELOPER</strong></p>
+        <p>B.TECH - 2nd YEAR<br/>Email: aqueefalimansari007@gmail.com<br/>
+        Contact: 9875672907</p>
 
       </div>
       <!-- Grid column -->
