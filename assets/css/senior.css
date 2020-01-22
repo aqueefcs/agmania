@@ -1,0 +1,238 @@
+.navbar {
+	font-size: 25px;
+	font-weight: bold;
+	}
+	.row{
+	margin-top: 100px;
+	}
+
+	#timer{
+	font-size: 40px;
+
+
+	}
+	#timer1{
+	font-size: 40px;
+	}
+	ul {
+	font-size: 20px;
+	}
+	.page-footer{
+	background-color: #203A43;
+	}
+	#ques{
+	<?php
+		if($id == 25){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media25{
+	<?php
+		if($id == 25){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 26){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media26{
+	<?php
+		if($id == 26){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 27){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media27{
+	<?php
+		if($id == 27){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 28){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media28{
+	<?php
+		if($id == 28){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 29){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media29{
+	<?php
+		if($id == 29){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 30){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media30{
+	<?php
+		if($id == 30){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 31){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media31{
+	<?php
+		if($id == 31){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 32){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media32{
+	<?php
+		if($id == 32){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 33){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media33{
+	<?php
+		if($id == 33){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 34){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media34{
+	<?php
+		if($id == 34){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 35){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media35{
+	<?php
+		if($id == 35){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
+	#ques{
+	<?php
+		if($id == 36){
+			echo "display: none;";
+		}
+
+	?>
+	}
+	#media36{
+	<?php
+		if($id == 36){
+			echo "display: block;";
+		}
+		else{
+			echo "display: none;";
+		}
+	?>
+	}
