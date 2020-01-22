@@ -4,7 +4,7 @@
 
 		//this code is to connect with db
 		$timezone = date_default_timezone_set("Asia/kolkata");
-		$con = mysqli_connect("localhost","root", "","agmania");
+		$con = mysqli_connect("remotemysql.com","MASntFxpxi", "eY8wvb0kqF","agmania");
 
 		if(mysqli_connect_errno()){
 			echo "Failed to Connect ".mysqli_connect_errno();
