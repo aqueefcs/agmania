@@ -174,7 +174,7 @@ body {
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="#"><span style="color:#38ef7d; ">C</span>ONTACT</a>
+            <a class="nav-link" href="#contact"><span style="color:#38ef7d; ">C</span>ONTACT</a>
           </li>
         </ul>
 
@@ -402,11 +402,11 @@ body {
         <div class="card-body">
 
           <!-- Title -->
-          <h4 class="card-title text-dark font-weight-bold"><a>JAVED IQBAL</a></h4>
+          <h4 class="card-title text-dark font-weight-bold" id="contact"><a>JAVED IQBAL</a></h4>
           <!-- Text -->
           <p class="card-text text-dark">HEAD-MASTER,TITAGARH AGM HIGH SCHOOL</p>
-          <p class="card-text text-dark"><i class="fas fa-envelope"></i> Email: blblb@gmail.com</p>
-          <p class="card-text text-dark"><i class="fas fa-mobile"></i> Contact: 1234567890</p> 
+          <p class="card-text text-dark"><i class="fas fa-envelope"></i> Email: agm.school@hotmail.com</p>
+          <p class="card-text text-dark"><i class="fas fa-mobile"></i> Contact: 9883243072</p> 
           
 
         </div>
