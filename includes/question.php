@@ -212,7 +212,7 @@
 		</div>
 
 				<!-- Footer -->
-				<footer class="page-footer font-small">
+				<footer class="page-footer font-small fixed-bottom">
 
 				  <!-- Copyright -->
 				  <div class="footer-copyright text-center py-3">Powered by Aqueef Alim Ansari © 2020 Copyright:
