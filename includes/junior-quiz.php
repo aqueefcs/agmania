@@ -131,7 +131,7 @@
 										?>
 									</div>
 									
-									<div class="col-md-2 col-sm-2">
+									<div class="col-md-2">
 										<?php echo"<a href='question1.php?id=2' type='button' class='btn btn-lg btn-block text-white num mb-3'>2</a> ";
 										?>
 										
