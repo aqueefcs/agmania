@@ -371,7 +371,7 @@
 										if($id == 28){
 											echo "	<div class='card'>
 													<div class='text-center'>
-														<video controls width='600px' height='400px'>
+														<video controls width='100%' height='400px'>
 															<source src='../assets/vedio/test.mp4' type = 'video/mp4'>
 														</video>
 													</div>
