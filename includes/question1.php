@@ -63,6 +63,7 @@
 	.page-footer{
 		background-color: #203A43;
 	}
+	
 </style>
 <body>
 
@@ -128,7 +129,7 @@
 					                                	
 										    			echo "
 
-										    				<h3 class='text-center'><i class='fas fa-angle-double-right'></i>".$row[2]."</h3>";
+										    				<h1 class='text-center'><i class='fas fa-angle-double-right'></i>".$row[2]."</h1>";
 
 										    			
 										    			
@@ -161,7 +162,7 @@
 					                                	
 										    			echo "
 
-										    				<h4 class='text-center text-dark' style='margin-top: 20px;''><i class='fas fa-check-text-success'></i>".$row[3]."</h4>";
+										    			<h2 class='text-center text-dark' style='margin-top: 20px;''><i class='fas fa-check-text-success'></i>".$row[3]."</h2>";</h4;
 
 										    			
 										    			
