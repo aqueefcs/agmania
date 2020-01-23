@@ -32,6 +32,7 @@
 	<!-- Material Design Bootstrap -->
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.10.1/css/mdb.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+	<link rel = "icon" href = "assets/img/favicon.ico">
 
 </head>
 <style type="text/css">
