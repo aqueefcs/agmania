@@ -642,7 +642,7 @@
 						    if (timeLeft == -1) {
 						    	audio.play();
 						        clearTimeout(timerId);
-						        document.getElementById("mybtn").disabled = false;
+						       
 						        
 						        doSomething();
 						    } else {
