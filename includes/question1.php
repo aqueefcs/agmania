@@ -129,7 +129,7 @@
 					                                	
 										    			echo "
 
-										    		<h1 class='text-center'>".$row[2]."<i class='fas fa-angle-double-left'></i></h1>";
+										    		<h1 class='text-center'>".$row[2]."</h1>";
 
 										    			
 										    			
@@ -162,7 +162,7 @@
 					                                	
 										    			echo "
 
-										    			<h1 class='text-center text-dark' style='margin-top: 20px;''>".$row[3]."<i class='fas fa-check-text-success'></i></h1>";										    			
+										    			<h1 class='text-center text-dark' style='margin-top: 20px;''>".$row[3]."</h1>";										    			
 										    			
 										    		?>
 
