@@ -285,7 +285,6 @@
     				audioentry.play();
     		
     		
-    				document.getElementById("mybtn").disabled = true;
     				
 		    		var timeLeft = 30;
 					var elem = document.getElementById('timer');
@@ -295,7 +294,7 @@
 					    if (timeLeft == -1) {
 					    	audio.play();
 					        clearTimeout(timerId);
-					        document.getElementById("mybtn").disabled = false;
+					       
 					        
 					        doSomething();
 					    } else {
