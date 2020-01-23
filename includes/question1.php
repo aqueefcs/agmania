@@ -162,9 +162,7 @@
 					                                	
 										    			echo "
 
-										    			<h2 class='text-center text-dark' style='margin-top: 20px;''><i class='fas fa-check-text-success'></i>".$row[3]."</h2>";</h4;
-
-										    			
+										    			<h2 class='text-center text-dark' style='margin-top: 20px;''><i class='fas fa-check-text-success'></i>".$row[3]."</h2>";										    			
 										    			
 										    		?>
 
