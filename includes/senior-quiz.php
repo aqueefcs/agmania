@@ -49,6 +49,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Acme&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Fredoka+One|Righteous&display=swap" rel="stylesheet">
+	<link rel = "icon" href = "../assets/img/favicon.ico">
 </head>
 <style type="text/css">
 	.info{
