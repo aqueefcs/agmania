@@ -669,6 +669,7 @@
             $card.removeClass('hover');
         } else {
             $card.addClass('hover');
+		clearTimeout(timerId);
         }
     }
 
