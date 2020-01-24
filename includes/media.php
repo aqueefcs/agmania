@@ -625,6 +625,23 @@
     });*/
     		var audioentry = new Audio('../assets/music/avenger.mp3');
     		audioentry.play();
+	
+	
+	
+	
+	 function rotateCard(btn){
+        var $card = $(btn).closest('.card-container');
+        console.log($card);
+        if($card.hasClass('hover')){
+            $card.removeClass('hover');
+        } else {
+            $card.addClass('hover');
+		clearTimeout(timerId);
+		var audioans = new Audio('../assets/music/short_sms.mp3');
+            	audioans.play();
+        }
+    }
+
 
     
 		   document.getElementById("show").onclick = function(){
@@ -662,19 +679,7 @@
 
 
 
-    function rotateCard(btn){
-        var $card = $(btn).closest('.card-container');
-        console.log($card);
-        if($card.hasClass('hover')){
-            $card.removeClass('hover');
-        } else {
-            $card.addClass('hover');
-		clearTimeout(timerId);
-		var audioans = new Audio('../assets/music/short_sms.mp3');
-            	audioans.play();
-        }
-    }
-
+   
 
 
 
