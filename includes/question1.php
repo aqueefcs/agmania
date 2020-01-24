@@ -239,6 +239,8 @@
         } else {
             $card.addClass('hover');
 	    clearTimeout(timerId);
+	    var audioans = new Audio('../assets/music/short_sms.mp3');
+            audioans.play();
         }
     }
 
