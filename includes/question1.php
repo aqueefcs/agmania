@@ -245,7 +245,7 @@
     }
 
 
-    		var timeLeft = 2;
+    		var timeLeft = 30;
 			var elem = document.getElementById('timer');
 			var timerId = setInterval(countdown, 1000);
 			var audio = new Audio('../assets/music/beep.mp3');
