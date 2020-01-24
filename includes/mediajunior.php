@@ -335,7 +335,7 @@
 									<?php
 										if($id == 25){
 											echo "	<div class='card'>
-													<img src='../assets/img/one.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<img src='../assets/img/redfort.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
 													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
 												</div>";
 											}
@@ -345,7 +345,7 @@
 									<?php
 										if($id == 26){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<img src='../assets/img/sachin.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='100%' height='1200px'>
 													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
 												</div>";
 											}
@@ -356,11 +356,7 @@
 										if($id == 27){
 											echo "	<div class='card'>
 													<div class='text-center'>
-														<audio controls>
-														  
-														  	<source src='../assets/music/senior.mp3' type='audio/mpeg'>
-															Your browser does not support the audio element.
-														</audio>
+														<img src='../assets/img/Nepal1.png' class='img-fluid mx-auto d-block' alt='Responsive image' width='100%' height='1200px'>
 													</div>
 													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
 												</div>";
@@ -371,11 +367,7 @@
 									<?php
 										if($id == 28){
 											echo "	<div class='card'>
-													<div class='text-center'>
-														<video controls width='100%' height='400px'>
-															<source src='../assets/vedio/test.mp4' type = 'video/mp4'>
-														</video>
-													</div>
+													<img src='../assets/img/sbi.jpeg' class='img-fluid mx-auto d-block' alt='Responsive image' width='100%' height='1200px'>
 													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
 												</div>";
 											}
@@ -385,7 +377,7 @@
 									<?php
 										if($id == 29){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<img src='../assets/img/ranbir.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
 													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
 												</div>";
 											}
@@ -395,7 +387,7 @@
 									<?php
 										if($id == 30){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<img src='../assets/img/wb.jpeg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
 													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
 												</div>";
 											}
