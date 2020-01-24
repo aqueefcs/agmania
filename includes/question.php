@@ -275,7 +275,7 @@
 
         } else {
             $card.addClass('hover');
-           
+           clearTimeout(timerId);
         }
     }
 
