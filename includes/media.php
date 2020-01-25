@@ -492,7 +492,11 @@
 									<?php
 										if($id == 31){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/soor.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -502,7 +506,11 @@
 									<?php
 										if($id == 32){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/arijit.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -512,7 +520,11 @@
 									<?php
 										if($id == 33){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/manto.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -522,7 +534,11 @@
 									<?php
 										if($id == 34){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/batti.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -532,7 +548,11 @@
 									<?php
 										if($id == 35){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/kgf.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -542,7 +562,11 @@
 									<?php
 										if($id == 36){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/praak.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
