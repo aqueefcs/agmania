@@ -282,6 +282,95 @@
 			}
 		?>
 	}
+	.back{
+		<?php
+			if($id == 1){
+			echo "	
+					background: url('../assets/img/seniorimgans/islamic.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 2){
+			echo "	
+					background: url('../assets/img/seniorimgans/islamic.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 3){
+			echo "	
+					background: url('../assets/img/seniorimgans/islamic.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 4){
+			echo "	
+					background: url('../assets/img/seniorimgans/islamic.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 5){
+			echo "	
+					background: url('../assets/img/seniorimgans/islamic.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 6){
+			echo "	
+					background: url('../assets/img/seniorimgans/islamic.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 7){
+			echo "	
+					background: url('../assets/img/seniorimgans/trachea.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+					
+				";
+			}
+			if($id == 8){
+			echo "	
+					background:url('../assets/img/seniorimgans/temp.jpg');
+					background-size: cover;
+					background-repeat: no-repeat;
+				";
+			}
+			if($id == 9){
+				echo "	
+						background:url('../assets/img/seniorimgans/lyso.jfif');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 10){
+				echo "	
+						background:url('../assets/img/seniorimgans/h2s.png');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 11){
+				echo "	
+						background:url('../assets/img/seniorimgans/pancreas.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 12){
+				echo "	
+						background:url('../assets/img/seniorimgans/power.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+			?>
+	}
 </style>
 <body>
 
