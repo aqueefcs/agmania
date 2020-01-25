@@ -620,8 +620,7 @@
 					                                	
 										    			echo "
 
-										    				<h3 class='text-center'><i class='fas fa-angle-double-right'></i>".$row[2]."</h3>";
-
+										    				<h1 class='text-center'>".$row[2]."</h1>";
 										    			
 										    			
 										    		?>
