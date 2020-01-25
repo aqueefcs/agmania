@@ -284,49 +284,49 @@
 	}
 	.back{
 		<?php
-			if($id == 1){
+			if($id == 25){
 			echo "	
 					background: url('../assets/img/seniorimgans/islamic.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 2){
+			if($id == 26){
 			echo "	
 					background: url('../assets/img/seniorimgans/islamic.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 3){
+			if($id == 27){
 			echo "	
 					background: url('../assets/img/seniorimgans/islamic.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 4){
+			if($id == 28){
 			echo "	
 					background: url('../assets/img/seniorimgans/islamic.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 5){
+			if($id == 29){
 			echo "	
 					background: url('../assets/img/seniorimgans/islamic.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 6){
+			if($id == 30){
 			echo "	
 					background: url('../assets/img/seniorimgans/islamic.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 7){
+			if($id == 31){
 			echo "	
 					background: url('../assets/img/seniorimgans/trachea.jpg');
 					background-size: cover;
@@ -334,35 +334,35 @@
 					
 				";
 			}
-			if($id == 8){
+			if($id == 32){
 			echo "	
 					background:url('../assets/img/seniorimgans/temp.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
-			if($id == 9){
+			if($id == 33){
 				echo "	
 						background:url('../assets/img/seniorimgans/lyso.jfif');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 10){
+				if($id == 34){
 				echo "	
 						background:url('../assets/img/seniorimgans/h2s.png');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 11){
+				if($id == 35){
 				echo "	
 						background:url('../assets/img/seniorimgans/pancreas.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 12){
+				if($id == 36){
 				echo "	
 						background:url('../assets/img/seniorimgans/power.jpg');
 						background-size: cover;
@@ -632,7 +632,7 @@
 					                                	
 										    			echo "
 
-										    				<h4 class='text-center text-dark' style='margin-top: 20px;''><i class='fas fa-check-text-success'></i>".$row[3]."</h4>";
+										    				<h4 class='text-center text-dark font-weight-bold alert-success' style='margin-top: 20px;''><i class='fas fa-check-text-success'></i>".$row[3]."</h4>";
 
 										    			
 										    			
