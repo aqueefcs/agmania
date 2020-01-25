@@ -284,84 +284,84 @@
 	}
 	.back{
 	    <?php
-		if($id == 13){
+				if($id == 25){
 				echo "	
 						background:url('../assets/img/seniorimgans/drms.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 14){
+				if($id == 26){
 				echo "	
 						background:url('../assets/img/seniorimgans/rani.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 15){
+				if($id == 27){
 				echo "	
 						background:url('../assets/img/seniorimgans/ghat.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 16){
+				if($id == 28){
 				echo "	
 						background:url('../assets/img/seniorimgans/hitler.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 17){
+				if($id == 29){
 				echo "	
 						background:url('../assets/img/seniorimgans/grass.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
-				if($id == 18){
+				if($id == 30){
 					echo "	
 							background:url('../assets/img/seniorimgans/khilji.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
-				if($id == 19){
+				if($id == 31){
 					echo "	
 							background:url('../assets/img/seniorimgans/abhijit.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
-				if($id == 20){
+				if($id == 32){
 					echo "	
 							background:url('../assets/img/seniorimgans/bipin.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
-				if($id == 21){
+				if($id == 33){
 					echo "	
 							background:url('../assets/img/seniorimgans/japan.png');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
-				if($id == 22){
+				if($id == 34){
 					echo "	
 							background:url('../assets/img/seniorimgans/pak.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
-				if($id == 23){
+				if($id == 35){
 					echo "	
 							background:url('../assets/img/seniorimgans/meghna.jfif');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
-				if($id == 24){
+				if($id == 36){
 					echo "	
 							background:url('../assets/img/seniorimgans/partha.jpg');
 							background-size: cover;
