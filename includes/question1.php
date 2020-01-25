@@ -324,7 +324,7 @@
 					                    </div> <!-- end front panel -->
 					                    <div class="back">
 					                        <div class="cover">
-					                            <img src="../assets/img/delhi.jfif">
+					                            
 
 					                        </div>
 					                        <hr class="my-8">
@@ -336,7 +336,7 @@
 					                                	
 										    			echo "
 
-										    			<h1 class='text-center text-dark' style='margin-top: 20px;''>".$row[3]."</h1>";										    			
+										    			<h1 class='text-center text-dark font-weight-bold alert-success' style='margin-top: 20px;''>".$row[3]."</h1>";										    			
 										    			
 										    		?>
 
