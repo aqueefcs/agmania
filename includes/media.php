@@ -328,7 +328,7 @@
 			}
 			if($id == 31){
 			echo "	
-					background: url('../assets/img/seniorimgans/trachea.jpg');
+					background: url('../assets/img/seniorimgans/soor.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 					
@@ -336,35 +336,35 @@
 			}
 			if($id == 32){
 			echo "	
-					background:url('../assets/img/seniorimgans/temp.jpg');
+					background:url('../assets/img/seniorimgans/arijit.jpeg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
 			}
 			if($id == 33){
 				echo "	
-						background:url('../assets/img/seniorimgans/lyso.jfif');
+						background:url('../assets/img/seniorimgans/manto.jfif');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 34){
 				echo "	
-						background:url('../assets/img/seniorimgans/h2s.png');
+						background:url('../assets/img/seniorimgans/batti.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 35){
 				echo "	
-						background:url('../assets/img/seniorimgans/pancreas.jpg');
+						background:url('../assets/img/seniorimgans/kgf.png');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 36){
 				echo "	
-						background:url('../assets/img/seniorimgans/power.jpg');
+						background:url('../assets/img/seniorimgans/praak.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
