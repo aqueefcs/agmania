@@ -345,8 +345,7 @@
 					                    </div> <!-- end front panel -->
 					                    <div class="back">
 					                        <div class="cover">
-					                            <img src="../assets/img/delhi.jfif">
-
+					                            
 					                        </div>
 					                        <hr class="my-8">
 					                        <div class="content">
