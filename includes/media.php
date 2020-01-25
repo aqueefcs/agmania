@@ -637,6 +637,7 @@
         console.log($card);
         if($card.hasClass('hover')){
             $card.removeClass('hover');
+	    var timerId = setInterval(countdown, 1000);
         } else {
             $card.addClass('hover');
 		clearTimeout(timerId);
