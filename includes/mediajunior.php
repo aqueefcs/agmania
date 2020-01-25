@@ -286,84 +286,84 @@
 	    <?php
 				if($id == 25){
 				echo "	
-						background:url('../assets/img/seniorimgans/petronas.jpg');
+						background:url('../assets/img/juniorimg/rf.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 26){
 				echo "	
-						background:url('../assets/img/seniorimgans/mal.jpg');
+						background:url('../assets/img/juniorimg/tendulkar.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 27){
 				echo "	
-						background:url('../assets/img/seniorimgans/hasan.jpg');
+						background:url('../assets/img/juniorimg/nep.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 28){
 				echo "	
-						background:url('../assets/img/seniorimgans/nestle.jpg');
+						background:url('../assets/img/juniorimg/sbindia.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 29){
 				echo "	
-						background:url('../assets/img/seniorimgans/jack.jpg');
+						background:url('../assets/img/juniorimg/rk.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 30){
 					echo "	
-							background:url('../assets/img/seniorimgans/violin.jpg');
+							background:url('../assets/img/juniorimg/victoria.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 31){
 					echo "	
-							background:url('../assets/img/seniorimgans/abhijit.jpg');
+							background:url('../assets/img/juniorimg/dp.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 32){
 					echo "	
-							background:url('../assets/img/seniorimgans/bipin.jpg');
+							background:url('../assets/img/juniorimg/farhan.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 33){
 					echo "	
-							background:url('../assets/img/seniorimgans/japan.png');
+							background:url('../assets/img/juniorimg/armaan.jpeg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 34){
 					echo "	
-							background:url('../assets/img/seniorimgans/pak.jpg');
+							background:url('../assets/img/juniorimg/jubin.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 35){
 					echo "	
-							background:url('../assets/img/seniorimgans/meghna.jfif');
+							background:url('../assets/img/juniorimg/arijit.jpeg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 36){
 					echo "	
-							background:url('../assets/img/seniorimgans/partha.jpg');
+							background:url('../assets/img/juniorimg/neeti.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
