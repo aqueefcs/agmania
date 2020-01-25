@@ -282,6 +282,95 @@
 			}
 		?>
 	}
+	.back{
+	    <?php
+		if($id == 13){
+				echo "	
+						background:url('../assets/img/seniorimgans/drms.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 14){
+				echo "	
+						background:url('../assets/img/seniorimgans/rani.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 15){
+				echo "	
+						background:url('../assets/img/seniorimgans/ghat.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 16){
+				echo "	
+						background:url('../assets/img/seniorimgans/hitler.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 17){
+				echo "	
+						background:url('../assets/img/seniorimgans/grass.jpg');
+						background-size: cover;
+						background-repeat: no-repeat;
+					";
+				}
+				if($id == 18){
+					echo "	
+							background:url('../assets/img/seniorimgans/khilji.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 19){
+					echo "	
+							background:url('../assets/img/seniorimgans/abhijit.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 20){
+					echo "	
+							background:url('../assets/img/seniorimgans/bipin.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 21){
+					echo "	
+							background:url('../assets/img/seniorimgans/japan.png');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 22){
+					echo "	
+							background:url('../assets/img/seniorimgans/pak.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 23){
+					echo "	
+							background:url('../assets/img/seniorimgans/meghna.jfif');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 24){
+					echo "	
+							background:url('../assets/img/seniorimgans/partha.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+
+		?>
+	}
 </style>
 <body>
 			<script type="text/javascript">
