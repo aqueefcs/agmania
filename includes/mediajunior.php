@@ -286,42 +286,42 @@
 	    <?php
 				if($id == 25){
 				echo "	
-						background:url('../assets/img/seniorimgans/drms.jpg');
+						background:url('../assets/img/seniorimgans/petronas.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 26){
 				echo "	
-						background:url('../assets/img/seniorimgans/rani.jpg');
+						background:url('../assets/img/seniorimgans/mal.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 27){
 				echo "	
-						background:url('../assets/img/seniorimgans/ghat.jpg');
+						background:url('../assets/img/seniorimgans/hasan.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 28){
 				echo "	
-						background:url('../assets/img/seniorimgans/hitler.jpg');
+						background:url('../assets/img/seniorimgans/nestle.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 29){
 				echo "	
-						background:url('../assets/img/seniorimgans/grass.jpg');
+						background:url('../assets/img/seniorimgans/jack.jpg');
 						background-size: cover;
 						background-repeat: no-repeat;
 					";
 				}
 				if($id == 30){
 					echo "	
-							background:url('../assets/img/seniorimgans/khilji.jpg');
+							background:url('../assets/img/seniorimgans/violin.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
@@ -644,7 +644,7 @@
 					                    </div> <!-- end front panel -->
 					                    <div class="back">
 					                        <div class="cover">
-					                            <img src="../assets/img/delhi.jfif">
+
 
 					                        </div>
 					                        <hr class="my-8">
