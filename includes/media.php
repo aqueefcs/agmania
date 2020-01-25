@@ -285,7 +285,9 @@
 </style>
 <body>
 
-				
+			<script type="text/javascript">
+				var ANSWERED = false
+			</script>	
 		<!--Navbar -->
 			<nav class="mb-1 navbar navbar-expand-lg navbar-dark orange lighten-1">
 			  	<a class="navbar-brand" href="../index.php" style="color: #c31432; font-size: 30px;">AGMANIA</a>
@@ -630,6 +632,7 @@
 	
 	
 	 function rotateCard(btn){
+		 ANSWERED = true
         var $card = $(btn).closest('.card-container');
         console.log($card);
         if($card.hasClass('hover')){
@@ -655,7 +658,7 @@
 						var timerId = setInterval(countdown, 1000);
 						var audio = new Audio('../assets/music/beep.mp3');
 						function countdown() {
-						    if (timeLeft == -1) {
+						    if (timeLeft == -1 && !ANSWERED) {
 						    	audio.play();
 						        clearTimeout(timerId);
 						       
