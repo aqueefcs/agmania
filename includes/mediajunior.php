@@ -284,6 +284,9 @@
 	}
 </style>
 <body>
+			<script type="text/javascript">
+				var ANSWERED = false
+			</script>
 
 				
 		<!--Navbar -->
@@ -631,7 +634,7 @@
 						var timerId = setInterval(countdown, 1000);
 						var audio = new Audio('../assets/music/beep.mp3');
 						function countdown() {
-						    if (timeLeft == -1) {
+						    if (timeLeft == -1 && !ANSWERED) {
 						    	audio.play();
 						        clearTimeout(timerId);
 						       
@@ -656,6 +659,7 @@
 
 
     function rotateCard(btn){
+	ANSWERED = true
         var $card = $(btn).closest('.card-container');
         console.log($card);
         if($card.hasClass('hover')){
