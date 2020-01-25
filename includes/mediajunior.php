@@ -400,7 +400,13 @@
 									<?php
 										if($id == 31){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<audio controls>
+														 
+														  <source src='../assets/vedio/w.mp3' type='audio/mpeg'>
+														
+														</audio>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -410,7 +416,11 @@
 									<?php
 										if($id == 32){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/2.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -420,7 +430,13 @@
 									<?php
 										if($id == 33){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<audio controls>
+														 
+														  <source src='../assets/vedio/3.mp3' type='audio/mpeg'>
+														
+														</audio>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -430,7 +446,13 @@
 									<?php
 										if($id == 34){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<audio controls>
+														 
+														  <source src='../assets/vedio/4.mp3' type='audio/mpeg'>
+														
+														</audio>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -440,7 +462,11 @@
 									<?php
 										if($id == 35){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/51.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
@@ -450,12 +476,17 @@
 									<?php
 										if($id == 36){
 											echo "	<div class='card'>
-													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
+													<div class='text-center'>
+														<video controls width='100%' height='400px'>
+															<source src='../assets/vedio/srk.mp4' type = 'video/mp4'>
+														</video>
+													</div>
 													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
 								</div>
+
 
 
 
