@@ -404,7 +404,7 @@ body {
         <div class="card-body">
 
           <!-- Title -->
-          <h4 class="card-title text-dark font-weight-bold" id="contact"><a>JAVED IQBAL</a></h4>
+          <h4 class="card-title text-dark font-weight-bold" id="contact"><a>JAVED IQUBAL</a></h4>
           <!-- Text -->
           <p class="card-text text-dark">HEAD-MASTER,TITAGARH AGM HIGH SCHOOL</p>
           <p class="card-text text-dark"><i class="fas fa-envelope"></i> Email: agm.school@hotmail.com</p>
