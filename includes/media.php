@@ -338,7 +338,7 @@
 										if($id == 25){
 											echo "	<div class='card'>
 													<img src='../assets/img/one.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -348,7 +348,7 @@
 										if($id == 26){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -364,7 +364,7 @@
 															Your browser does not support the audio element.
 														</audio>
 													</div>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -378,7 +378,7 @@
 															<source src='../assets/vedio/test.mp4' type = 'video/mp4'>
 														</video>
 													</div>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -388,7 +388,7 @@
 										if($id == 29){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -398,7 +398,7 @@
 										if($id == 30){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -408,7 +408,7 @@
 										if($id == 31){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -418,7 +418,7 @@
 										if($id == 32){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -428,7 +428,7 @@
 										if($id == 33){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -438,7 +438,7 @@
 										if($id == 34){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -448,7 +448,7 @@
 										if($id == 35){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
@@ -458,7 +458,7 @@
 										if($id == 36){
 											echo "	<div class='card'>
 													<img src='../assets/img/two.jpg' class='img-fluid mx-auto d-block' alt='Responsive image' width='1200px' height='1200px'>
-													<button type='submit' id='show' class='btn btn-success'>Show Question</button>
+													<a type='button' id='show' class='btn btn-success' href='#ques'>Show Question</a>
 												</div>";
 											}
 									?>
