@@ -357,6 +357,39 @@
 									</div>
 								</div>
 								<hr class="my-10">
+								<h3 class="info font-weight-bold">MIXED BAG ROUND</h3>
+								<div class="row">
+									<div class="col-md-2">
+										
+										<?php echo"<a href='media.php?id=43' type='button' class='btn btn-lg btn-block text-white num mb-3'>1</a> ";
+										?>
+									</div>
+									
+									<div class="col-md-2">
+										<?php echo"<a href='media.php?id=44' type='button' class='btn btn-lg btn-block text-white num mb-3'>2</a> ";
+										?>
+										
+									</div>
+									<div class="col-md-2">
+										<?php echo"<a href='media.php?id=45' type='button' class='btn btn-lg btn-block text-white num mb-3'>3</a> ";
+										?>
+									</div>
+									<div class=" col-md-2">
+										<?php echo"<a href='media.php?id=46' type='button' class='btn btn-lg btn-block text-white num mb-3'>4</a> ";
+										?>
+									</div>
+									<div class="col-md-2">
+										
+										<?php echo"<a href='media.php?id=47' type='button' class='btn btn-lg btn-block text-white num mb-3'>5</a> ";
+										?>
+									</div>
+									<div class="col-md-2">
+										
+										<?php echo"<a href='media.php?id=48' type='button' class='btn btn-lg btn-block text-white num mb-3'>6</a> ";
+										?>
+									</div>
+								</div>
+								<hr class="my-10">
 
 								<h3 class="info font-weight-bold">TIE-BREAKER ROUND</h3>
 								<div class="row">
