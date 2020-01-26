@@ -361,31 +361,31 @@
 								<div class="row">
 									<div class="col-md-2">
 										
-										<?php echo"<a href='media.php?id=43' type='button' class='btn btn-lg btn-block text-white num mb-3'>1</a> ";
+										<?php echo"<a href='question.php?id=43' type='button' class='btn btn-lg btn-block text-white num mb-3'>1</a> ";
 										?>
 									</div>
 									
 									<div class="col-md-2">
-										<?php echo"<a href='media.php?id=44' type='button' class='btn btn-lg btn-block text-white num mb-3'>2</a> ";
+										<?php echo"<a href='question.php?id=44' type='button' class='btn btn-lg btn-block text-white num mb-3'>2</a> ";
 										?>
 										
 									</div>
 									<div class="col-md-2">
-										<?php echo"<a href='media.php?id=45' type='button' class='btn btn-lg btn-block text-white num mb-3'>3</a> ";
+										<?php echo"<a href='question.php?id=45' type='button' class='btn btn-lg btn-block text-white num mb-3'>3</a> ";
 										?>
 									</div>
 									<div class=" col-md-2">
-										<?php echo"<a href='media.php?id=46' type='button' class='btn btn-lg btn-block text-white num mb-3'>4</a> ";
+										<?php echo"<a href='question.php?id=46' type='button' class='btn btn-lg btn-block text-white num mb-3'>4</a> ";
 										?>
 									</div>
 									<div class="col-md-2">
 										
-										<?php echo"<a href='media.php?id=47' type='button' class='btn btn-lg btn-block text-white num mb-3'>5</a> ";
+										<?php echo"<a href='question.php?id=47' type='button' class='btn btn-lg btn-block text-white num mb-3'>5</a> ";
 										?>
 									</div>
 									<div class="col-md-2">
 										
-										<?php echo"<a href='media.php?id=48' type='button' class='btn btn-lg btn-block text-white num mb-3'>6</a> ";
+										<?php echo"<a href='question.php?id=48' type='button' class='btn btn-lg btn-block text-white num mb-3'>6</a> ";
 										?>
 									</div>
 								</div>
