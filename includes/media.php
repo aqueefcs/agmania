@@ -336,7 +336,7 @@
 			}
 			if($id == 32){
 			echo "	
-					background:url('../assets/img/seniorimgans/arijit.jpeg');
+					background:url('../assets/img/seniorimgans/sel.jpg');
 					background-size: cover;
 					background-repeat: no-repeat;
 				";
