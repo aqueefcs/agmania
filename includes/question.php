@@ -238,6 +238,90 @@
 							background-repeat: no-repeat;
 						";
 				}
+				if($id == 37){
+					echo "	
+							background:url('../assets/img/seniorimgans/rbi.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 38){
+					echo "	
+							background:url('../assets/img/seniorimgans/gdp.png');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 39){
+					echo "	
+							background:url('../assets/img/seniorimgans/cj.jfif');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 40){
+					echo "	
+							background:url('../assets/img/seniorimgans/partha.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 41){
+					echo "	
+							background:url('../assets/img/seniorimgans/khilji.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 42){
+					echo "	
+							background:url('../assets/img/seniorimgans/bang.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 43){
+					echo "	
+							background:url('../assets/img/seniorimgans/youth.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 44){
+					echo "	
+							background:url('../assets/img/seniorimgans/bose.jfif');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 45){
+					echo "	
+							background:url('../assets/img/seniorimgans/otp.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 46){
+					echo "	
+							background:url('../assets/img/seniorimgans/bud.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 47){
+					echo "	
+							background:url('../assets/img/seniorimgans/apj.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
+				if($id == 48){
+					echo "	
+							background:url('../assets/img/seniorimgans/garba.jpg');
+							background-size: cover;
+							background-repeat: no-repeat;
+						";
+				}
 
 		?>
 	}
