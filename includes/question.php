@@ -261,14 +261,14 @@
 				}
 				if($id == 40){
 					echo "	
-							background:url('../assets/img/seniorimgans/partha.jpg');
+							background:url('../assets/img/seniorimgans/khilji.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
 				}
 				if($id == 41){
 					echo "	
-							background:url('../assets/img/seniorimgans/khilji.jpg');
+							background:url('../assets/img/seniorimgans/samudr.jpg');
 							background-size: cover;
 							background-repeat: no-repeat;
 						";
